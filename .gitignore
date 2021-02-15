@@ -1,6 +1,7 @@
 *.pyc
 __pycashe__
 .ipynb_checkpoints
+"jupyter notebook/.ipynb_checkpoints"
 venv/
 .idea/
 data/
