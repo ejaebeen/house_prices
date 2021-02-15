@@ -1,1 +1,7 @@
+*.pyc
+__pycashe__
+.ipynb_checkpoints
+venv/
+.idea/
 data/
+~*.*
